@@ -1,0 +1,3 @@
+[submodule "lib/UART_Com_Protocol"]
+	path = lib/UART_Com_Protocol
+	url = https://github.com/OmarRebai/UART_Com_Protocol.git
